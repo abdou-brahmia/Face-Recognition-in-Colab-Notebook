@@ -4,7 +4,7 @@
 
 This repository provides a notebook and an implementing face recognition using Python, OpenCV, and the face_recognition library in Google Colab. Whether you are new to face recognition or looking to experiment with facial recognition algorithms, this repository serves as a practical guide.
 
-## Key Features
+## Key Features 
 
 - **Upload Known and Unknown Faces:** Easily upload images of known faces for training and unknown faces for recognition directly in Google Colab.
   
